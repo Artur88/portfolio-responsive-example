@@ -1,0 +1,55 @@
+
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+.jumbotron {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+#personal-image {
+    width:75%;
+    border-radius: 50%;
+    margin: 20px;
+}
+#social-ul {
+list-style-type: none;
+}
+    
+#social-ul li {
+    color: black;
+    margin: 35px;
+    display: inline;
+    
+}
+.web-shortcuts {
+    
+}
+
+.web-shortcuts i {
+    font-size: 50px;  
+}
+.copyright {
+    background-color: black;
+    color: white;
+}
+.copyright p {
+    margin-top: 25px;
+}
+.copyright ul {
+    list-style-type: none;
+    margin-top: 25px;
+}
+.copyright ul li{
+    display: inline;
+    margin: 25px;
+    color: white;
+}
+.copyright ul li a {
+    color: white;
+   
+}
+
+
+
+
